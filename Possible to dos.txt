@@ -1,0 +1,11 @@
+To do 
+
+Security
+
+Mative mobile version
+
+Mendix version
+
+Voedingswaarde
+
+Testen met eksterne belanghebbenden
