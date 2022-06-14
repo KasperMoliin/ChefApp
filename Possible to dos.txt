@@ -1,7 +1,5 @@
 To do 
 
-Register page
-
 Security
 
 Native mobile version
@@ -11,5 +9,3 @@ Mendix version
 Voedingswaarde
 
 Testen met eksterne belanghebbenden
-
-Vertalen naar NL

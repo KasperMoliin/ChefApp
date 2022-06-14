@@ -1,5 +1,1 @@
-Check all feedback messages
-
-RecipeDetails. Adding allergen doesn't work.
-
-Remove bloat caused by web blocks
+"No items to show" bij allergenen als er geen ingredienten of recepten zijn in een gerecht.
