@@ -1,0 +1,10 @@
+Security implementeren
+
+Attributen verwijderen uit de database
+
+Traditional web op mobile
+
+Text block layout konsistent houden door meerdere locales
+
+Printvriendelijk versies maken met passende page breaks
+
