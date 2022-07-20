@@ -1,11 +1,7 @@
-To do 
+Mobile toepassing 3
 
-Security
+Delete rules 2
 
-Native mobile version
+Layout registration screen 3
 
-Mendix version
-
-Voedingswaarde
-
-Testen met eksterne belanghebbenden
+Home pagina leuker maken 5

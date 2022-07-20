@@ -1,18 +1,8 @@
 Start in het Nederlands
 
 
-Voorstellen
-
-Prioriteiten
-
 Maak een gebruiker aan
-
-	Leg uit wat wij gaan doen	
-		Allergeen aanmaken
-		Ingrediënt aanmarken
-		Recept aanmaken
-		Gerecht aanmaken
-
+	
 Laat leeg gebruiker zien. 
 	 Welkom pagina - dishes - ingredient
 
@@ -50,7 +40,7 @@ Log in op moliin@hotmail.com
 			open pdf
 
 	Sorteren van hoog naar laag SSP
-		Druk op Mussels with fennel and stuff
+		Druk ok Mussels with fennel and stuff
 			Voeg ingrediënten toe:
 				25g white wine - druk op "save & new"
 				1g fennel seed - druk op "save"

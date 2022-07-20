@@ -1,0 +1,29 @@
+Koppel tabel tussen user en recepten.
+
+Delete rules
+
+Toevoegen kan makkelijk. 
+
+Verwijderen
+
+Timers setten
+
+Wrappers / Data scheiden. Backlog met entiteiten en data model.
+
+If statement for web blocks
+
+
+SQL 
+
+Switch
+
+Site properties
+
+
+
+Handige sites + TOOLS:
+Gebruik ‘Inspecteren’ in browser voor CSS issues, debuggen kan best in service studio zelf. Alleen scripts (zoals javascript of Jquery) kan je niet in service studio debuggen. 
+https://success.outsystems.com/Documentation/11/Developing_an_Application/Service_Studio_Shortcuts (handige shortcuts)
+https://outsystemsui.outsystems.com/OutsystemsUiWebsite/ (alle OutSystems patterns en widgets)
+https://success.outsystems.com/Documentation/11/Reference/ (de library voor alle elementen, tools en widgets met beschrijvingen over properties en toepassingen.
+Google Search:  [probleem] + [naam van element/component in OutSystems] + [OutSystems]

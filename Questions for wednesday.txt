@@ -1,10 +1,6 @@
-Security implementeren
+Indexes 
 
-Attributen verwijderen uit de database
+Delete rules
 
-Traditional web op mobile
-
-Text block layout konsistent houden door meerdere locales
-
-Printvriendelijk versies maken met passende page breaks
+SQL
 
