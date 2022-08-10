@@ -1,6 +1,0 @@
-Indexes 
-
-Delete rules
-
-SQL
-
